@@ -4,3 +4,6 @@ This project required my group partner and I to create a display where sound was
 
 Here is the link to the Github repository of the project itself:
 https://github.com/SquareSquire286/Sauer-Morin-Assignment8
+
+Here is a link to a Youtube video documenting and demonstrating the project:
+https://youtu.be/RZ9QIuAEDGc
